@@ -2,5 +2,5 @@
 
 ##Uma Maheshwari
 
-### This is an example of cloud based repo
+### This is an example of syncing and cloud based repo
 
